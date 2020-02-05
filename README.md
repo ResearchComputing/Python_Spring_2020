@@ -8,7 +8,7 @@ ARC 677  (east campus)
 Daniel.Trahan@Colorado.edu  
 
 ### Date & Time:
-Wednesdays 1:30 pm - 3:00 pm (led by Daniel)  
+Wednesdays 1:30 pm - 3:00 pm
 
 ### Location:
 Norlin E206   
