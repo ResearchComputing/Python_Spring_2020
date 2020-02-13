@@ -12,7 +12,7 @@ Windows, Mac, and Linux installers are provided, and we have tested all three 64
        conda config --add channels intel
        ```
     3. ```bash
-       conda create -n idp intelpython3_full python=3    # answer "yes"
+       conda create -n idp intelpython3_full python=3 jupyter    # answer "yes"
        ```   
        *__Note:__ "idp" is a nickname for this Python/package combo. You are free to use anything you wish in lieu of "idp."*
     
