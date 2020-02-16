@@ -26,7 +26,6 @@ The most straightforward way to install this software is via the Conda environme
 
 Date    | Topic                                             | Notes
 --------|---------------------------------------------------|----------------------------------:
-Feb. 17 | Session 0: Installation Help                      | Optional Session  
 ​       | **_Part 1: Python Essentials_**                   |​
 Feb. 19 | Overview, 'Hello World!,' variables and assignment| 
 Mar. 26 | Conditionals, functions                           |
