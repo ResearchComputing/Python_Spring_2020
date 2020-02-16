@@ -12,7 +12,7 @@ Wednesdays 1:30 pm - 3:00 pm
 
 ### Location:
 Norlin E206   
-Zoom:  https://cuboulder.zoom.us/j/4239862482  
+Zoom: <TBD>
 
 ### Description:  
 This workshop series will provide a brief overview of Python programming and some research-useful Python packages. This course will not cover “how to program;" attendees are expected to have introductory-level experience in at least one other programming language.  
