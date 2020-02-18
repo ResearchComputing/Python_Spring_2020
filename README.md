@@ -12,7 +12,7 @@ Wednesdays 1:30 pm - 3:00 pm
 
 ### Location:
 Norlin E206   
-Zoom: <TBD>
+Zoom: https://cuboulder.zoom.us/j/111862166
 
 ### Description:  
 This workshop series will provide a brief overview of Python programming and some research-useful Python packages. This course will not cover “how to program;" attendees are expected to have introductory-level experience in at least one other programming language.  
@@ -36,8 +36,6 @@ Apr. 18 | Package management via PiP and Conda              |
 Apr. 1  | Efficient Python programming with NumPy           | 
 Apr. 8  | Plotting with Matplotlib                          |
 Apr. 15 | H5Py                                              |
-
-
 
 ### Reference Material: 
 [How to Think Like a Computer Scientist (FREE online text)](http://openbookproject.net/thinkcs/python/english3e/)  
