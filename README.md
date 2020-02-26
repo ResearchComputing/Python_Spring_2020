@@ -12,7 +12,7 @@ Wednesdays 1:30 pm - 3:00 pm
 
 ### Location:
 Norlin E206   
-Zoom: https://cuboulder.zoom.us/j/111862166
+Zoom: https://cuboulder.zoom.us/j/111862166  
 Recodings: https://www.youtube.com/channel/UCwaEDofbgZtAw-iHwRwbrnw
 
 ### Description:  
