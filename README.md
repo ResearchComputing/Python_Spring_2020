@@ -29,10 +29,10 @@ Date    | Topic                                             | Notes
 --------|---------------------------------------------------|----------------------------------:
 ​       | **_Part 1: Python Essentials_**                   |​
 Feb. 19 | Overview, 'Hello World!,' variables and assignment| 
-Mar. 26 | Conditionals, functions                           |
+Feb. 26 | Conditionals, functions                           |
 Mar. 4  | Loops, lists, tuples, dictionaries                |  
 Mar. 11 | Objects, methods, modules                         |
-Apr. 18 | Package management via PiP and Conda              | 
+Mar. 18 | Package management via PiP and Conda              | 
 ​       | **_Part 2: Useful Python Packages_**              |​
 Apr. 1  | Efficient Python programming with NumPy           | 
 Apr. 8  | Plotting with Matplotlib                          |
