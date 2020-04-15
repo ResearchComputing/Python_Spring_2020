@@ -1,0 +1,6 @@
+To Compile:
+f2py -c example1.F90 -m ex1 --opt="-O3 -fopenmp" -lgomp
+
+To Run:
+export OMP_NUM_THREADS=X   <--- spaces matter ;  where X is a number between 1 and 24 (try 8)
+python timeit.py

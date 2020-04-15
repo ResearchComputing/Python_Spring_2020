@@ -1,0 +1,5 @@
+To Compile:
+f2py -c example1.F90 -m ex1
+
+To Run:
+python timeit.py
